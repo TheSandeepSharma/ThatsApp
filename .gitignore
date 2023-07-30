@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ThatsApp/ThatsApp/bin/Debug/net6.0
+/ThatsApp/ThatsApp/obj/Debug/net6.0
